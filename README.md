@@ -1,5 +1,5 @@
 # PythonClassCGH2
-![](https://commonmark.org/images/markdown-mark.png)
+![](https://commonmark.org/images/markdown-mark.png =100x20)
 
 An elemetory class for writing python
 
